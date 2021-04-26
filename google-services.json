@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660966729827",
+    "project_id": "i-attendance-iium",
+    "storage_bucket": "i-attendance-iium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660966729827:android:88a09c79bbaf58ffdd7056",
+        "android_client_info": {
+          "package_name": "com.iiumattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660966729827-5jt5on6oufba3hp7tun8k1aqhpjkpjoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zCGlEz-ll4diGvjTnw55v2ihSKRuu3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660966729827-5jt5on6oufba3hp7tun8k1aqhpjkpjoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
